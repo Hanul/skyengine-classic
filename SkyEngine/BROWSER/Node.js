@@ -1984,7 +1984,7 @@ SkyEngine.Node = CLASS({
 				}
 				colliders = undefined;
 	
-				collisionTargets = undefined
+				collisionTargets = undefined;
 				collidingNodeIds = undefined;
 				meetHandlerMap = undefined;
 				partHandlerMap = undefined;
